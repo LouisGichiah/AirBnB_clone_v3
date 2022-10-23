@@ -6,7 +6,6 @@ Unit test for the Base Model Class
 
 import console
 import inspect
-import pep8
 from contextlib import contextmanager
 from datetime import datetime
 from io import StringIO
